@@ -1,0 +1,23 @@
+{
+  "name": "online-shop-website-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lazy-module": "^0.0.2",
+    "vite": "^5.1.6",
+    "vite-plugin-imagemin": "^0.6.1"
+  },
+  "devDependencies": {
+    "cssnano": "^6.1.0"
+  }
+}
