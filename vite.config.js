@@ -10,7 +10,7 @@ export default defineConfig({
             cssnano(),
             imagemin(),
         ],
-        base: 'https://localhost:63342',
+        base: 'https://ef11a82c.frontendhw.pages.dev',
         optimizeDeps: {
             include: ['react','react-dom'],
         },
